@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Harshil Shah
 - 👀 I’m interested in CyberSecurity, Network Administrator
 - 🌱 I’m currently learning Network Security
-- 💞️ I’m looking to collaborate on cybersecurity
+- 💞️ I’m looking to collaborate on Cybersecurity
 - 📫 How to reach me: ping me on harshilshah1110@gmail.com
 
 
